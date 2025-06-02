@@ -1,0 +1,9 @@
+exa-py 
+openai 
+faiss-cpu 
+python-dotenv 
+numpy
+langsmith 
+langchain
+python-dotenv
+langchain-openai
